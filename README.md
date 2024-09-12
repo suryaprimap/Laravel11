@@ -1,5 +1,5 @@
 ## Documentation
-
+In this project, i changed the company logo in to a japanese clan logo (based on a videogame), and the profile into Goro Majima (a videogame character). 
 ![PBKK_1](https://github.com/user-attachments/assets/dae3f532-737b-4cec-86ba-38657cac7bec)
 ![PBKK_2](https://github.com/user-attachments/assets/7eee7abb-d3f9-43c3-b071-d453668b01d2)
 ![PBKK_3](https://github.com/user-attachments/assets/ad8a73ee-545d-45c8-bdfa-ca719ba237f7)
