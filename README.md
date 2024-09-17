@@ -6,6 +6,13 @@ In this project, i changed the company logo in to a japanese clan logo (based on
 ![PBKK_4](https://github.com/user-attachments/assets/08d9f2de-2ec1-46cb-b669-8899f63d1eab)
 ![PBKK_5](https://github.com/user-attachments/assets/fdff1e3a-fffa-4112-bdab-804eb765ae76)
 
+View data and model documentation
+![image](https://github.com/user-attachments/assets/d246a9b0-8a55-43a0-815d-6d1e69c72d0b)
+![image](https://github.com/user-attachments/assets/c1d36845-d899-4e87-8115-beeaf6c2554b)
+![image](https://github.com/user-attachments/assets/db464ea2-60a1-4211-b1ff-83a47019c07b)
+
+
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
