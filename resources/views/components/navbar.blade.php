@@ -12,7 +12,7 @@
                     <div class="flex items-baseline ml-10 space-x-4">
                         <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
                         <x-nav-link href="/" :active="request()->is('/')">Home</x-nav-link>
-                        <x-nav-link href="/blog" :active="request()->is('blog')">Blog</x-nav-link>
+                        <x-nav-link href="/posts" :active="request()->is('posts')">Blog</x-nav-link>
                         <x-nav-link href="/contact" :active="request()->is('contact')">Contact</x-nav-link>
                         <x-nav-link href="/about" :active="request()->is('about')">About</x-nav-link>
                     </div>
@@ -70,7 +70,7 @@
             <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
             <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
             <x-mobile-navbar href="/" :active="request()->is('/')">Home</x-mobile-navbar>
-            <x-mobile-navbar href="/blog" :active="request()->is('blog')">Blog</x-mobile-navbar>
+            <x-mobile-navbar href="/posts" :active="request()->is('posts')">Blog</x-mobile-navbar>
             <x-mobile-navbar href="/contact" :active="request()->is('contact')">Contact</x-mobile-navbar>
             <x-mobile-navbar href="/about" :active="request()->is('about')">About</x-mobile-navbar>
             </div>
