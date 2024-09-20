@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\laravel11\resources\views/welcome.blade.php ENDPATH**/ ?>
