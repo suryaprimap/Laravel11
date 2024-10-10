@@ -16,10 +16,12 @@ Database - model factories documentation
 ![image](https://github.com/user-attachments/assets/7aeab57d-887b-4aed-9c42-695591b1668d)
 ![image](https://github.com/user-attachments/assets/94be1de9-41e1-4885-a37c-3eb42f86c91d)
 
-Eloq Relation Documentation
+Eloq Relation - Database Seeder Documentation
 ![image](https://github.com/user-attachments/assets/e351de20-4bfa-4b7f-9396-18c876def0f0)
 ![image](https://github.com/user-attachments/assets/5abe2750-8d61-4e38-b409-fdb46ff7dc77)
 ![image](https://github.com/user-attachments/assets/564832d6-428a-4de7-aa1c-d55db4f9f64a)
+![image](https://github.com/user-attachments/assets/2017a092-776a-461f-8769-76dec637b99b)
+![image](https://github.com/user-attachments/assets/f9a84ad8-94db-4f6f-8728-1ac471df085e)
 
 
 
