@@ -23,6 +23,12 @@ Eloq Relation - Database Seeder Documentation
 ![image](https://github.com/user-attachments/assets/2017a092-776a-461f-8769-76dec637b99b)
 ![image](https://github.com/user-attachments/assets/f9a84ad8-94db-4f6f-8728-1ac471df085e)
 
+N+1 Documentaries
+![image](https://github.com/user-attachments/assets/9fd12a9d-dc6e-488d-aee7-27d66ae9a656)
+![image](https://github.com/user-attachments/assets/17c51d17-5415-4bd1-9b99-fb75081782e6)
+![image](https://github.com/user-attachments/assets/37eb6f7e-c2af-4d0c-bce1-fb35da81689b)
+
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
